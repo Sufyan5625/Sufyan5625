@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sufyan5625
-- 👀 I’m interested in HTML, CSS, JavaSCript, React.
-- 🌱 I’m currently learning Full Stack Mern Development.
-- 💞️ I’m looking to collaborate on Web Development.
+- 👀 I’m a Artist 
+- 🌱 I’m currently learning Line Art and Colour Art.
+- 💞️ I’m looking to collaborate.
 - 📫 Reach me on Whatsapp = 03350231210
 
 <!---
